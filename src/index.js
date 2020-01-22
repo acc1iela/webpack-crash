@@ -1,6 +1,8 @@
 import _ from 'lodash';
 
-import style from './style.css';
+import './style.css';
+
+import './style.scss';
 
 import logo from './logo.png';
 
